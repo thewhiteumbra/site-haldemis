@@ -20,6 +20,7 @@ h2 {
 }
 p {
     margin: 10px 0;
+    width: 50% ;
     padding: 5px;
     border: 1px solid #ffddd2 ;
 }
@@ -36,4 +37,20 @@ footer {
     padding: 10px;
     background-color: #006d77;
     color: #black ;
+}
+
+article
+{
+    border-radius: 10px;
+    border : 5px solid #006d77 ;
+    width: 200px;
+    text-align: justify;
+    padding: 12px;
+    margin: 10px;
+}
+
+h1 {
+  display:flex;
+  color : #006d77;
+  justify-content : align;
 }
