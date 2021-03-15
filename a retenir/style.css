@@ -1,0 +1,38 @@
+li {
+  font-family : Verdana, Geneva, Tahoma, sans-serif ;
+  color: #fff;
+  margin-left: 30px;
+  }
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #006d77;
+    color: #fff ;
+}
+
+h2 {
+  color: #e29578 ;
+  border : 1px dotted #006d77;
+
+}
+p {
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #ffddd2 ;
+}
+
+h3 {
+  display:flex;
+  color : #006d77;
+  justify-content : center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #006d77;
+    color: #black ;
+}
