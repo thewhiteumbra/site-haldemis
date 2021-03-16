@@ -49,6 +49,7 @@ p.mail {
   white-space:nowrap;
   border : 0px;
   font-weight: light;
+  color : #e29578;
 }
 
 .carre {
@@ -73,10 +74,11 @@ h1 {
 
 p.classement {
   border: 0px;
+  color : #e29578;
 }
 pre.infoj {
   display : flex;
-  color : black;
+  color : #006d77;
   border : 0px ;
   white-space:nowrap;
   justify-content: align ;
