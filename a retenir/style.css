@@ -1,3 +1,4 @@
+/* Add application styles & imports to this file! */
 li {
   font-family : Verdana, Geneva, Tahoma, sans-serif ;
   color: #fff;
@@ -19,6 +20,7 @@ h2 {
 }
 p {
     margin: 10px 0;
+    width: 50% ;
     padding: 5px;
     border: 1px solid #ffddd2 ;
 }
@@ -35,4 +37,53 @@ footer {
     padding: 10px;
     background-color: #006d77;
     color: #black ;
+}
+
+h2.pseudo {
+  color : #006d77;
+  border : 0px;
+  white-space:nowrap;
+}
+
+p.mail {
+  white-space:nowrap;
+  border : 0px;
+  font-weight: light;
+  color : #006d77;
+}
+
+.carre {
+  width: 5000px;
+  height: 35px;
+  border-radius : 0 px;
+  background : #ffddd2;
+}
+
+h1 {
+  display:flex;
+  color : #006d77;
+  justify-content : align;
+}
+
+.cercle {
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    background: #e29578 ;
+}
+
+p.classement {
+  border: 0px;
+  color : #e29578;
+}
+pre.infoj {
+  display : flex;
+  color : #e29578;
+  border : 0px ;
+  white-space:nowrap;
+  justify-content: align ;
+  margin : 0px ; 
+  margin-top: 10px;
+  margin-bottom: 10px ;
+  font-size: 20px;
 }
