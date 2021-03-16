@@ -18,8 +18,11 @@ hr {
 }
 
 h2 {
+  display : flex;
   color: #e29578 ;
   border : 1px dotted #006d77;
+  justify-content: center;
+  margin : auto;
 
 }
 p {
@@ -67,6 +70,7 @@ p.txtaide {
   display : flex;
   justify-content: center;
   padding : 20px;
+  margin : auto;
 }
 
 h1 {
