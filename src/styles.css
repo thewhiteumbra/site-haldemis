@@ -46,10 +46,14 @@ footer {
     color: #black ;
 }
 
-h2.pseudo {
-  color : #006d77;
-  border : 0px;
-  white-space:nowrap;
+
+.carre {
+  width: 5000px;
+  height: 35px;
+  border-radius : 0 px solid;
+  background-color : #ffddd2;
+  font-size: 30px;
+  color:#006d77;
 }
 
 p.mail {
@@ -59,12 +63,6 @@ p.mail {
   color : #006d77;
 }
 
-.carre {
-  width: 5000px;
-  height: 35px;
-  border-radius : 0 px;
-  background : #ffddd2;
-}
 
 p.txtaide {
   display : flex;
@@ -87,6 +85,7 @@ h1 {
 }
 
 p.classement {
+  white-space : nowrap;
   border: 0px;
   color : #e29578;
 }
