@@ -1,4 +1,3 @@
-/* Add application styles & imports to this file! */
 li {
   font-family : Verdana, Geneva, Tahoma, sans-serif ;
   color: #fff;
@@ -19,8 +18,8 @@ hr {
 
 h2 {
   display : flex;
-  color: #e29578 ;
-  border : 1px dotted #006d77;
+  color: #006d77 ;
+  border : 1px dotted #e29578;
   justify-content: center;
   margin : auto;
 
@@ -69,6 +68,13 @@ p.txtaide {
   justify-content: center;
   padding : 20px;
   margin : auto;
+}
+
+
+p.desc {
+display : flex;
+justify-content: center;
+margin: auto;
 }
 
 h1 {

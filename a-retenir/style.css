@@ -89,6 +89,13 @@ p.classement {
   border: 0px;
   color : #e29578;
 }
+
+p.desc {
+display : flex;
+justify-content: center;
+margin: auto;
+}
+
 pre.infoj {
   display : flex;
   color : #e29578;
